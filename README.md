@@ -5,7 +5,7 @@
 ## Project summary (<300 words)
 This project is aimed at optimizing the production of ethanol in an existing GSM of *lactoccocus lactis*. Optimization of different carbon source and flow rate revealed that the glucose repression inhibited the synthesis of ethanol. Reducing the glucose rate could potentially improve the ethanol production rate. Anaerobic or aerobic condition modification showed oxygen was not the limitation of the ethanol production. Investigation of gene regulation targets by FSEOF analysis revealed several reactions that could be either upregulated or downregulated to improve yield of ethanol.Theory-based and OptGene algorithm strategies were applied to knock out genes related to the production of ethanol. We found knocking out genes based on theory could increase the ethanol production rate.
 
-A summary of what we achieved in this project:
+*A summary of what we achieved in this project:
 
 Carbon source optimization
 
