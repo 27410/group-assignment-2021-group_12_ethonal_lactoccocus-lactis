@@ -7,13 +7,13 @@ This project is aimed at optimizing the production of ethanol in an existing GSM
 
 A summary of what we achieved in this project:
 
-·Carbon source optimization
+1) Carbon source optimization
 
-·With/without oxygen optimization
+2) With/without oxygen optimization
 
-·Finding the targets of gene regulation by FSEOF analysis
+3) Finding the targets of gene regulation by FSEOF analysis
 
-·Knocking out genes based on two different strategies: theory-based and OptGene algorithm 
+4) Knocking out genes based on two different strategies: theory-based and OptGene algorithm 
 
 ## Project overview
 Our project is organized with one folders of the pictures used in Image folder. All of our work and analysis of the GSM, carbon source, oxygen optimization, theory-based knocking out, predict regulator targets and automatic optimization including the model, are found in the main folder. The total report and analysis lives in the Report.ipynb notebook. 
